@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florent</h1>
 <h3 align="center">I'm a junior web developper !</h3>
 
-<h4 align="center" font-decoration="underline"><ins>Currently looking for an apprenticeship</ins></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
